@@ -1,5 +1,5 @@
 # TW-YAMAHA-YSP-Dealer-web-crawler
-This is a web scraping exercise using Selenium, focused on extracting "Taiwan Yamaha YSP Dealer" locations.
+This exercise focuses on web scraping "Taiwan Yamaha YSP Dealer" locations using Selenium and saving the extracted information into an Excel file.
 
 
 ## Requirements
